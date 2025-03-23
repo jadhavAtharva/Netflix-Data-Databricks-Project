@@ -1,1 +1,1 @@
-# Nerflix-Data-Databricks-Project
+# Netflix-Data-Databricks-Project
